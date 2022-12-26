@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<jnlp spec="1.0" xmlns:jfx="http://javafx.com" href="Exercicio_DDD.jnlp">
+  <information>
+    <title>Exercicio_DDD</title>
+    <vendor>Eduardo</vendor>
+    <description>null</description>
+    <offline-allowed/>
+  </information>
+  <resources>
+    <j2se version="1.6+" href="http://java.sun.com/products/autodl/j2se"/>
+    <jar href="Exercicio_DDD.jar" size="5205" download="eager" />
+  </resources>
+  <jfx:javafx-desc  width="800" height="600" main-class="exercicio_ddd.Exercicio_DDD"  name="Exercicio_DDD" />
+  <update check="always"/>
+</jnlp>
